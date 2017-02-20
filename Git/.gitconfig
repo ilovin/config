@@ -1,0 +1,12 @@
+[user]
+	name = ilovin
+	email = lovesscott@126.com
+[alias]
+	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+	co = checkout
+	cm = commit
+	br = branch
+    st = status
+[core]
+	autocrlf = true
+	excludesfile = D:\\Document\\gitignore_global.txt
