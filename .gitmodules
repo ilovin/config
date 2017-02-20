@@ -1,0 +1,9 @@
+[submodule "repository/GenericMakefile"]
+	path = repository/GenericMakefile
+	url = https://github.com/mbcrawfo/GenericMakefile.git
+[submodule "repository/molokai"]
+	path = repository/molokai
+	url = https://github.com/tomasr/molokai.git
+[submodule "repository/vim"]
+	path = repository/vim
+	url = https://github.com/vim/vim.git
